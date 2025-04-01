@@ -10,4 +10,5 @@
 
 ### Otra Información
 - Este es mi primer contacto con github
-- Tengo un perro que se llama Black
+- Tengo una hija que se llama Delfi
+![Delfina](./delfi.png)
